@@ -38,5 +38,4 @@ This analysis leads to three recommendations for improving operations of the Aus
 ### Next Steps
 
 - **Consider what movie rating(G, PG, PG-13, R, or NC-17) is best for the film** A lower movie rating could incentivize more people to see the film.
-- **Consider releasing films on streaming services.** This modeling could predict the need for specialized personnel to address animals' medical needs, including neutering, using intake condition and sex data.
-- **Predicting undesirable outcomes.**  More and more major studios are releasing their films on their respective streaming services.
+- **Consider releasing films on streaming services.** more and more major studios are releasing their films on their respective streaming services.
